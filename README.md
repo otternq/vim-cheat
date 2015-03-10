@@ -11,7 +11,7 @@ $ cd ./vim-cheat
 $ chmod +x ./bin/vim-cheat
 ```
 
-Add `export PATH="/path/to/vim-cheat/bin:$PATH"` to your .rc file (_.zshrc_ | _.bashrc_)
+Add `export PATH="/path/to/vim-cheat/bin:$PATH"` to your .rc file (_~/.zshrc_ | _~/.bashrc_)
 
 ## Usage
 
